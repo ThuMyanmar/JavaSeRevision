@@ -32,7 +32,6 @@ class Machine{
         System.out.println(colour);
         System.out.println(useful);
 
-
         }
 
         void getStart(){
